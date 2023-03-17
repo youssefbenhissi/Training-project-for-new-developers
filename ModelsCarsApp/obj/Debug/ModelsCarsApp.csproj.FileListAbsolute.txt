@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\WindowsFormsCarApp\ModelsCarsApp\bin\Debug\ModelsCarsApp.dll
+C:\Users\DELL\source\repos\WindowsFormsCarApp\ModelsCarsApp\bin\Debug\ModelsCarsApp.pdb
+C:\Users\DELL\source\repos\WindowsFormsCarApp\ModelsCarsApp\obj\Debug\ModelsCarsApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WindowsFormsCarApp\ModelsCarsApp\obj\Debug\ModelsCarsApp.dll
+C:\Users\DELL\source\repos\WindowsFormsCarApp\ModelsCarsApp\obj\Debug\ModelsCarsApp.pdb
